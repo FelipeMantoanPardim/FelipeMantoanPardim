@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Felipe Mantoan Pardim</h1>
 
-<img src="./profile-3d-contrib/profile-green-animate.svg">
+<!-- <img src="./profile-3d-contrib/profile-green-animate.svg"> -->
 
 <h3 align="center">Desenvolvedor Full-stack Angular/Node.js</h3>
 
